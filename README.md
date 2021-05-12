@@ -8,15 +8,15 @@ How to run this project :
 
 1. Clone this repo via terminal / download zip file
 
-On the command prompt run the following commands
-
 ``` 
 $ git clone https://github.com/Dhimassudaryanta/ReactJS_youtubeclone.git
+
+$ cd reactjs_youtubeclone
+
+$ npm install
 ```
 
-2. In the project directory, you can run:
-
-Run the following command
+2. To start the app, you can run:
 
 ```
 $ npm start
