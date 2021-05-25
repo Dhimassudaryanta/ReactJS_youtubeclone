@@ -9,9 +9,9 @@ How to run this project :
 1. Clone this repo via terminal / download zip file
 
 ``` 
-$ git clone https://github.com/Dhimassudaryanta/ReactJS_youtubeclone.git
+$ git clone git@github.com:Dhimassudaryanta/rjs-youtube-video-browser.git
 
-$ cd reactjs_youtubeclone
+$ cd rjs-youtube-video-browser
 
 $ npm install
 ```
